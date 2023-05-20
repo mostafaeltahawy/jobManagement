@@ -25,11 +25,11 @@ This is a job management application that allows you to create and track jobs fo
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/job-management.git
+   git clone https://github.com/mostafaeltahawy/jobManagement.git
 
 2. Navigate to the project directory:
 
-   cd job-management
+   cd jobManagement
 
 3. Install the dependencies for both the backend and frontend:
 
@@ -41,10 +41,10 @@ This is a job management application that allows you to create and track jobs fo
 
 ### Usage
 
-1. Start the backend server:
+1. Start the backend server using Nodemon for automatic restarts on file changes:
 
    cd backend
-   npm start
+   npm run dev
 
    The backend server will be running at [http://localhost:3000](http://localhost:3000).
 
